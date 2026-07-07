@@ -3,4 +3,4 @@ print("i am pooja")
 a=10
 b=5
 
-print c = (a+b)
+print {"c" = (a+b)}
